@@ -1,0 +1,18 @@
+---
+title: "Tut4"
+author: "Xinyu"
+format: html
+editor: visual
+---
+
+## Introduction
+
+This shiny app is about the different animations.
+
+```{r}
+1 + 1
+```
+
+## The Dataset
+
+The dataset can be found from the github which has been cleaned.https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-04-23

@@ -1,0 +1,14 @@
+{
+  "hash": "58d6676af6b50456e153967e9984caba",
+  "result": {
+    "markdown": "---\ntitle: \"Tut4\"\nauthor: \"Xinyu\"\nformat: html\neditor: visual\n---\n\n\n## Introduction\n\nThis shiny app is about the different animations.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n\n\n## The Dataset\n\nThe dataset can be found from the github which has been cleaned.https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-04-23\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
